@@ -1,0 +1,155 @@
+2018/03/18 18:01:12 http://furtherne.com 204 No Content 158.8402ms
+2018/03/18 18:01:12 http://google.com 200 OK 193.865ms
+2018/03/18 18:01:12 content requirement for http://google.com isn't satisfied
+2018/03/18 18:01:12 http://fb.com/login 200 OK 353.8026ms
+2018/03/18 18:01:12 content requirement for http://fb.com/login isn't satisfied
+2018/03/18 18:01:13 http://facebook.com 200 OK 477.0668ms
+2018/03/18 18:01:13 content requirement for http://facebook.com isn't satisfied
+2018/03/18 18:01:13 http://baidu.com 200 OK 539.1377ms
+2018/03/18 18:01:13 content requirement for http://baidu.com isn't satisfied
+2018/03/18 18:01:13 http://enging.com Get https://enging.com/: x509: certificate is valid for www.enging.com, not enging.com 597.1327ms
+2018/03/18 18:01:13 http://engineering.com 200 OK 786.9194ms
+2018/03/18 18:01:13 content requirement for http://engineering.com is satisfied
+2018/03/18 18:01:13 http://hicpm10.com 403 Forbidden 1.1814594s
+2018/03/18 18:01:13 http://youtube.com 200 OK 442.6574ms
+2018/03/18 18:01:13 content requirement for http://youtube.com is satisfied
+
+2018/03/18 18:04:07 http://hicpm10.com 403 Forbidden 115.2357ms
+2018/03/18 18:04:07 http://google.com 200 OK 163.2259ms
+2018/03/18 18:04:07 content requirement for http://google.com isn't satisfied
+2018/03/18 18:04:07 http://furtherne.com 204 No Content 191.2545ms
+2018/03/18 18:04:07 http://fb.com/login 200 OK 328.4071ms
+2018/03/18 18:04:07 content requirement for http://fb.com/login isn't satisfied
+2018/03/18 18:04:07 http://enging.com Get https://enging.com/: x509: certificate is valid for www.enging.com, not enging.com 448.6301ms
+2018/03/18 18:04:07 http://facebook.com 200 OK 446.6385ms
+2018/03/18 18:04:07 content requirement for http://facebook.com isn't satisfied
+2018/03/18 18:04:07 http://baidu.com 200 OK 549.0306ms
+2018/03/18 18:04:07 content requirement for http://baidu.com isn't satisfied
+2018/03/18 18:04:07 http://engineering.com 200 OK 706.6636ms
+2018/03/18 18:04:07 content requirement for http://engineering.com is satisfied
+2018/03/18 18:04:08 http://youtube.com 200 OK 428.6197ms
+2018/03/18 18:04:08 content requirement for http://youtube.com is satisfied
+
+2018/03/18 18:12:45 http://baidu.com 200 OK 594.6682ms
+2018/03/18 18:12:45 content requirement for http://baidu.com isn't satisfied
+
+2018/03/18 18:14:04 http://baidu.com 200 OK 608.112ms
+2018/03/18 18:14:04 content requirement for http://baidu.com isn't satisfied
+
+2018/03/18 18:14:05 http://youtube.com 200 OK 429.356ms
+2018/03/18 18:14:05 content requirement for http://youtube.com is satisfied
+
+2018/03/18 18:14:39 http://google.com 200 OK 194.1089ms
+2018/03/18 18:14:39 content requirement for http://google.com isn't satisfied
+2018/03/18 18:14:39 http://baidu.com 200 OK 592.3502ms
+2018/03/18 18:14:39 content requirement for http://baidu.com isn't satisfied
+2018/03/18 18:14:40 http://youtube.com 200 OK 469.4811ms
+2018/03/18 18:14:40 content requirement for http://youtube.com is satisfied
+
+2018/03/18 18:43:00 http://furtherne.com 204 No Content 139.1035ms
+2018/03/18 18:43:00 http://google.com 200 OK 171.1349ms
+2018/03/18 18:43:00 content requirement for http://google.com isn't satisfied
+2018/03/18 18:43:00 http://hicpm10.com 403 Forbidden 177.1802ms
+2018/03/18 18:43:00 http://fb.com/login 200 OK 371.5023ms
+2018/03/18 18:43:00 content requirement for http://fb.com/login isn't satisfied
+2018/03/18 18:43:00 http://enging.com Get https://enging.com/: x509: certificate is valid for www.enging.com, not enging.com 459.6682ms
+2018/03/18 18:43:00 http://facebook.com 200 OK 466.6574ms
+2018/03/18 18:43:00 content requirement for http://facebook.com isn't satisfied
+2018/03/18 18:43:01 http://baidu.com 200 OK 620.5019ms
+2018/03/18 18:43:01 content requirement for http://baidu.com isn't satisfied
+2018/03/18 18:43:01 http://engineering.com 200 OK 711.2116ms
+2018/03/18 18:43:01 content requirement for http://engineering.com is satisfied
+2018/03/18 18:43:01 http://youtube.com 200 OK 498.8609ms
+2018/03/18 18:43:01 content requirement for http://youtube.com is satisfied
+2018/03/18 18:43:56 http://hicpm10.com 403 Forbidden 86.2538ms
+2018/03/18 18:43:56 http://furtherne.com 204 No Content 127.7857ms
+2018/03/18 18:43:56 http://google.com 200 OK 142.8027ms
+2018/03/18 18:43:56 content requirement for http://google.com isn't satisfied
+
+2018/03/18 18:43:57 http://fb.com/login 200 OK 366.7984ms
+2018/03/18 18:43:57 content requirement for http://fb.com/login isn't satisfied
+2018/03/18 18:43:57 http://enging.com Get https://enging.com/: x509: certificate is valid for www.enging.com, not enging.com 419.9647ms
+2018/03/18 18:43:57 http://facebook.com 200 OK 413.9597ms
+2018/03/18 18:43:57 content requirement for http://facebook.com isn't satisfied
+2018/03/18 18:43:57 http://baidu.com 200 OK 585.9113ms
+2018/03/18 18:43:57 content requirement for http://baidu.com isn't satisfied
+2018/03/18 18:43:57 http://engineering.com 200 OK 637.9628ms
+2018/03/18 18:43:57 content requirement for http://engineering.com is satisfied
+2018/03/18 18:43:57 http://youtube.com 200 OK 414.4586ms
+2018/03/18 18:43:57 content requirement for http://youtube.com is satisfied2018/03/18 20:08:44 http://furtherne.com 204 No Content 170.1819ms
+2018/03/18 20:08:44 http://google.com 200 OK 177.1868ms
+2018/03/18 20:08:44 content requirement for http://google.com isn't satisfied
+2018/03/18 20:08:44 http://fb.com/login 200 OK 327.3348ms
+2018/03/18 20:08:44 content requirement for http://fb.com/login isn't satisfied
+2018/03/18 20:08:44 http://facebook.com 200 OK 419.3757ms
+2018/03/18 20:08:44 content requirement for http://facebook.com isn't satisfied
+2018/03/18 20:08:44 http://baidu.com 200 OK 552.1129ms
+2018/03/18 20:08:44 content requirement for http://baidu.com isn't satisfied
+2018/03/18 20:08:44 http://enging.com Get https://enging.com/: x509: certificate is valid for www.enging.com, not enging.com 575.2137ms
+2018/03/18 20:08:44 http://hicpm10.com 403 Forbidden 901.1823ms
+2018/03/18 20:08:44 http://engineering.com 200 OK 850.2752ms
+2018/03/18 20:08:44 content requirement for http://engineering.com is satisfied
+2018/03/18 20:08:45 http://youtube.com 200 OK 414.7049ms
+2018/03/18 20:08:45 content requirement for http://youtube.com is satisfied
+2018/03/18 20:37:02 http://hicpm10.com 403 Forbidden 146.8617ms
+2018/03/18 20:37:02 http://google.com 200 OK 205.9126ms
+2018/03/18 20:37:02 content requirement for http://google.com isn't satisfied
+2018/03/18 20:37:02 http://furtherne.com 204 No Content 226.9189ms
+2018/03/18 20:37:02 http://fb.com/login 200 OK 337.5457ms
+2018/03/18 20:37:02 content requirement for http://fb.com/login isn't satisfied
+2018/03/18 20:37:02 http://enging.com Get https://enging.com/: x509: certificate is valid for www.enging.com, not enging.com 446.5951ms
+2018/03/18 20:37:02 http://facebook.com 200 OK 467.5243ms
+2018/03/18 20:37:02 content requirement for http://facebook.com isn't satisfied
+2018/03/18 20:37:02 http://baidu.com 200 OK 557.064ms
+2018/03/18 20:37:02 content requirement for http://baidu.com isn't satisfied
+2018/03/18 20:37:02 http://engineering.com 200 OK 876.5325ms
+2018/03/18 20:37:02 content requirement for http://engineering.com is satisfied
+2018/03/18 20:37:03 http://youtube.com 200 OK 475.6926ms
+2018/03/18 20:37:03 content requirement for http://youtube.com is satisfied
+2018/03/18 20:42:48 http://furtherne.com 204 No Content 108.9542ms
+2018/03/18 20:42:48 http://hicpm10.com 403 Forbidden 197.0191ms
+2018/03/18 20:42:48 http://google.com 200 OK 203.0198ms
+2018/03/18 20:42:48 content requirement for http://google.com isn't satisfied
+2018/03/18 20:42:49 http://enging.com Get https://enging.com/: x509: certificate is valid for www.enging.com, not enging.com 447.8934ms
+2018/03/18 20:42:49 http://fb.com/login 200 OK 424.817ms
+2018/03/18 20:42:49 content requirement for http://fb.com/login isn't satisfied
+2018/03/18 20:42:49 http://facebook.com 200 OK 511.3558ms
+2018/03/18 20:42:49 content requirement for http://facebook.com isn't satisfied
+2018/03/18 20:42:49 http://baidu.com 200 OK 544.1487ms
+2018/03/18 20:42:49 content requirement for http://baidu.com isn't satisfied
+2018/03/18 20:42:49 http://engineering.com 200 OK 765.4245ms
+2018/03/18 20:42:49 content requirement for http://engineering.com is satisfied
+2018/03/18 20:42:50 http://youtube.com 200 OK 432.8728ms
+2018/03/18 20:42:50 content requirement for http://youtube.com is satisfied
+
+2018/03/18 21:14:40 http://furtherne.com 204 No Content 181.4633ms
+2018/03/18 21:14:40 http://google.com 200 OK 247.5769ms
+2018/03/18 21:14:40 content requirement for http://google.com isn't satisfied
+2018/03/18 21:14:40 http://fb.com/login 200 OK 397.8378ms
+2018/03/18 21:14:40 content requirement for http://fb.com/login isn't satisfied
+2018/03/18 21:14:40 http://facebook.com 200 OK 484.9094ms
+2018/03/18 21:14:40 content requirement for http://facebook.com isn't satisfied
+2018/03/18 21:14:40 http://enging.com Get https://enging.com/: x509: certificate is valid for www.enging.com, not enging.com 536.6898ms
+2018/03/18 21:14:40 http://baidu.com 200 OK 613.2577ms
+2018/03/18 21:14:40 content requirement for http://baidu.com isn't satisfied
+2018/03/18 21:14:40 http://engineering.com 200 OK 739.5446ms
+2018/03/18 21:14:40 content requirement for http://engineering.com is satisfied
+2018/03/18 21:14:41 http://hicpm10.com 403 Forbidden 1.1602278s
+2018/03/18 21:14:41 http://youtube.com 200 OK 459.0927ms
+2018/03/18 21:14:41 content requirement for http://youtube.com is satisfied
+
+2018/03/18 21:52:46 http://furtherne.com 204 No Content 133.43ms
+2018/03/18 21:52:46 http://hicpm10.com 403 Forbidden 146.3993ms
+2018/03/18 21:52:46 http://google.com 200 OK 194.4733ms
+2018/03/18 21:52:46 content requirement for http://google.com isn't satisfied
+2018/03/18 21:52:47 http://fb.com/login 200 OK 369.1207ms
+2018/03/18 21:52:47 content requirement for http://fb.com/login isn't satisfied
+2018/03/18 21:52:47 http://facebook.com 200 OK 468.9651ms
+2018/03/18 21:52:47 content requirement for http://facebook.com isn't satisfied
+2018/03/18 21:52:47 http://enging.com Get https://enging.com/: x509: certificate is valid for www.enging.com, not enging.com 509.5802ms
+2018/03/18 21:52:47 http://baidu.com 200 OK 586.3648ms
+2018/03/18 21:52:47 content requirement for http://baidu.com isn't satisfied
+2018/03/18 21:52:47 http://youtube.com 200 OK 468.9651ms
+2018/03/18 21:52:47 content requirement for http://youtube.com is satisfied
+2018/03/18 21:52:48 http://engineering.com 200 OK 1.4586577s
+2018/03/18 21:52:48 content requirement for http://engineering.com is satisfied

@@ -1,0 +1,13 @@
+time : 10 #minutes for scheduling
+parallel: 100 #number of parallel requests to make
+
+#yaml file seems to not like tabs so please use space for entering new rules
+
+rules:
+    google.com: "welcome to google"
+    fb.com/login: "please login"
+    youtube.com: "videos"
+    engineering.com: "Run the"
+    enging.com: "enging"
+    hicpm10.com: "hello"
+    furtherne.com: "hi"
